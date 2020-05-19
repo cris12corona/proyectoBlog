@@ -1,2 +1,2 @@
-# proyectoBlog
+# proyectoblog
  uso de framework
